@@ -1,0 +1,12 @@
+18. Chunk
+Chunk title: Auto service contracts and maintenance obligations
+
+Source title: FTC — Auto Warranties and Auto Service Contracts
+
+Source URL: https://consumer.ftc.gov/articles/auto-warranties-and-auto-service-contracts
+
+ 
+
+Summary
+
+The FTC explains that some auto service contracts may require the owner to follow all manufacturer maintenance recommendations, such as oil changes, or risk voiding the contract. The FTC advises keeping service records and receipts to show the vehicle was maintained. Cars.ai should use this chunk when users ask whether extra coverage is worth it or when comparing vehicles for long-term ownership. This chunk highlights that protection products are not just about the sales pitch; they can create recordkeeping obligations and coverage limitations. The assistant should use it to warn buyers not to assume a service contract guarantees hassle-free repairs. A contract with strict maintenance conditions may be less valuable than it first appears.

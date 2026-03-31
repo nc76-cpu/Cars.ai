@@ -1,0 +1,12 @@
+15. Chunk
+Chunk title: FTC financing versus leasing
+
+Source title: FTC — Financing or Leasing a Car
+
+Source URL: https://consumer.ftc.gov/financing-or-leasing-car
+
+ 
+
+Summary
+
+The FTC explains that lease payments are usually lower than finance payments for the same vehicle because, with a lease, the customer is paying to drive the car rather than to buy it. The FTC also notes that lease costs reflect expected depreciation, rent charge, taxes, and fees, and that the vehicle is returned at the end unless the agreement allows purchase. Cars.ai should use this chunk when users ask which path is better for long-term value. In general, this chunk supports the idea that leasing may look cheaper month to month but is not the same as building ownership. It is especially useful for users who say they want long-term value or resale benefit, because those goals usually push the answer toward ownership analysis instead of payment-only thinking.

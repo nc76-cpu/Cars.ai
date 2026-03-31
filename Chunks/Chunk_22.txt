@@ -1,0 +1,12 @@
+22. Chunk
+Chunk title: Search recalls and investigations by date and type
+
+Source title: NHTSA — Search Safety Issues
+
+Source URL: https://www.nhtsa.gov/search-safety-issues
+
+ 
+
+Summary
+
+NHTSA provides a safety-issue search that lets users look for the latest recalls or investigations and filter by product type and date range. Cars.ai should use this chunk when a user asks whether a model has had recent safety trouble or whether there are ongoing issues beyond completed recalls. This adds more nuance than a simple VIN recall check because it supports broader investigation awareness. For used-car shopping, this chunk helps the assistant explain that a model’s risk profile can include complaints, investigations, and published recall actions, not just current open recall status on one vehicle.
