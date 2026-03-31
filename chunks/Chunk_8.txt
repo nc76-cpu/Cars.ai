@@ -1,0 +1,12 @@
+8. Chunk
+Chunk title: IIHS 2026 Top Safety Pick criteria
+
+Source title: IIHS — 2026 Top Safety Picks
+
+Source URL: https://www.iihs.org/ratings/top-safety-picks
+
+ 
+
+Summary
+
+For 2026, the base Top Safety Pick award requires good ratings in the small overlap front, moderate overlap front, and side tests, acceptable or good headlights, and acceptable or good pedestrian front crash prevention with standard availability. Cars.ai should use this chunk for comparison answers where a vehicle earns a solid safety distinction but not the higher Top Safety Pick+ level. This allows the assistant to explain meaningful differences inside the category of “safe vehicles.” For example, one vehicle may still be a strong option even without the plus designation. The assistant should use this chunk to avoid black-and-white claims. A vehicle can be recommended as a strong safety choice while still noting where a competing model performed better under the most demanding criteria.
