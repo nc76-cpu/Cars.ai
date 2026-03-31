@@ -1,8 +1,0 @@
-20. Chunk
- 
-Chunk title: IRS new clean vehicle credit basics
-Source title: IRS — Credits for new clean vehicles purchased in 2023 or after
-Source URL: https://www.irs.gov/credits-deductions/credits-for-new-clean-vehicles-purchased-in-2023-or-after
- 
-Summary
-The IRS says qualifying buyers may receive a tax credit of up to $7,500 for a new qualified plug-in electric vehicle or fuel cell electric vehicle, subject to eligibility rules such as purchase purpose, U.S. use, and income limits. Cars.ai should use this chunk when comparing an EV or plug-in hybrid against a conventional gas vehicle. The assistant should explain that incentives can materially change effective purchase cost, but the rules are not universal and should never be assumed without checking eligibility. This chunk supports stronger ownership-cost comparisons for qualifying buyers, while also teaching the assistant to avoid promising a credit without confirming the rules.
