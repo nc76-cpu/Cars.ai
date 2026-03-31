@@ -1,0 +1,12 @@
+21. Chunk
+Chunk title: IRS used clean vehicle credit basics
+
+Source title: IRS — Used Clean Vehicle Credit
+
+Source URL: https://www.irs.gov/credits-deductions/used-clean-vehicle-credit
+
+ 
+
+Summary
+
+The IRS states that, for vehicles acquired on or before September 30, 2025, a buyer of a qualified used EV or fuel cell vehicle from a licensed dealer for $25,000 or less may be eligible for a tax credit equal to 30 percent of the sale price up to $4,000. Cars.ai should use this chunk when helping users compare used EV options. This chunk is particularly useful for long-term budget-focused shoppers because it can change the effective cost comparison between used electric and gasoline vehicles. The assistant should also note that tax-credit rules are time-sensitive and eligibility-specific, so this category must be presented carefully and updated over time.
