@@ -1,0 +1,12 @@
+4. Chunk
+Chunk title: NHTSA complaints can help trigger investigations
+
+Source title: NHTSA — Report a Safety Problem
+
+Source URL: https://www.nhtsa.gov/report-a-safety-problem
+
+ 
+
+Summary
+
+NHTSA allows consumers to file complaints about suspected vehicle, tire, car seat, or equipment safety defects. NHTSA states that complaints like these help the agency investigate possible defects, which can lead to a safety recall. In Cars.ai, this chunk is important when a user says a model has repeated scary behavior, such as braking issues, power-loss events, roof failures, steering problems, or fire risk. The assistant should explain that anecdotal experience alone is not the same as an official defect finding, but complaint systems exist precisely so patterns can be reviewed. This chunk also helps define a “caution” answer: if a user reports a possible safety defect, Cars.ai should recommend checking NHTSA complaints and recall information rather than relying only on dealer reassurance or online opinions.
