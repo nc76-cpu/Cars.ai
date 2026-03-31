@@ -1,0 +1,12 @@
+12. Chunk
+Chunk title: FTC Buyers Guide for used cars
+
+Source title: FTC — Buying a Used Car From a Dealer
+
+Source URL: https://consumer.ftc.gov/articles/buying-used-car-dealer
+
+ 
+
+Summary
+
+The FTC says dealers must display a Buyers Guide on every used car they offer for sale, and the guide tells shoppers key information such as whether the car has a warranty or is being sold as is. Cars.ai should use this chunk whenever a user asks whether a used-car offer is a good deal or whether a dealer’s promises can be trusted. The assistant should explain that the Buyers Guide is not just a formality; it is a core document that helps the buyer understand warranty status and sale terms. This chunk supports “caution” answers because missing, vague, or inconsistent Buyers Guide information is a warning sign when evaluating a used vehicle.

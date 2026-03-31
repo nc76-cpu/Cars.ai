@@ -1,0 +1,12 @@
+16. Chunk
+Chunk title: FTC on preapproval and dealer ad caution
+
+Source title: FTC — Car Dealer Ads and Promotions: Know Before You Go
+
+Source URL: https://consumer.ftc.gov/node/77460
+
+ 
+
+Summary
+
+The FTC advises shoppers who plan to finance a car to try to get pre-approved for a loan before working with the dealer’s financing office. The agency says this can help buyers judge whether the dealer’s offer is attractive and can improve negotiation. Cars.ai should use this chunk when a user asks whether a car is a “good buy” based on a monthly payment or advertised promotion. The assistant should explain that a low advertised payment alone is not enough to judge value. This chunk also supports answers about dealership caution signs, because it helps users compare outside financing with dealer-arranged financing and avoid being guided only by marketing language.
