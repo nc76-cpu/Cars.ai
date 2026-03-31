@@ -1,0 +1,12 @@
+17. Chunk
+Chunk title: Warranty basics for car-related purchases
+
+Source title: FTC — Warranties
+
+Source URL: https://consumer.ftc.gov/articles/warranties
+
+ 
+
+Summary
+
+The FTC’s warranty guidance tells consumers to examine the reputation of the company offering coverage, the length of coverage, what is actually covered, the claims process, and the records they should keep after purchase. The FTC also explains that spoken promises should be put in writing. Cars.ai should use this chunk when a user is comparing long-term ownership protection between vehicles, dealers, or warranty offers. A car that appears attractive on paper may become a weaker long-term choice if warranty coverage is limited, exclusions are broad, or promises are verbal rather than written. This chunk supports practical recommendation logic: clear written coverage is a positive factor, while vague promises and unclear claims procedures are caution factors.
